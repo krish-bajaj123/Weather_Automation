@@ -12,7 +12,7 @@ import os, os.path, zipfile, glob
 logging.basicConfig(level=logging.DEBUG)
 
 #specify location of 'weatherAutomation' folder
-filePath = "/Users/rohinchhabra/Desktop/"
+filePath = "/Users/username/Desktop/"
 
 #setting default download folder
 chromeOptions = webdriver.ChromeOptions()
